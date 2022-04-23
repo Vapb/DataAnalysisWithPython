@@ -5,7 +5,7 @@ Just a quick review on Python
 
 ## Scientific Computing with Python
 
-* Python for Everybody 40%
+* Python for Everybody 60%
 * Scientific Computing with Python Projects
     * Arithmetic Formatter
     * Time Calculator
@@ -14,11 +14,12 @@ Just a quick review on Python
 
 ## Data Analysis with Python
 
-* Data Analysis with Python
-* Numpy
+* Data Analysis with Python 0%
+* Numpy 0%
 * Data Analysis with Python Projects
-    * 
-    *
-    *
-    *
+    * Mean-Variance-Standard Deviation Calculator
+    * Demographic Data Analyzer
+    * Medical Data Visualizer
+    * Page View Time Series Visualizer
+    * Sea Level Predictor
 
