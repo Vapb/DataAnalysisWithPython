@@ -14,7 +14,7 @@ Just a quick review on Python
 
 ## Data Analysis with Python
 
-* Data Analysis with Python 0%
+* Data Analysis with Python 40%
 * Numpy 0%
 * Data Analysis with Python Projects
     * Mean-Variance-Standard Deviation Calculator
