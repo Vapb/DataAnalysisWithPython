@@ -5,7 +5,7 @@ Just a quick review on Python
 
 ## Scientific Computing with Python
 
-* Python for Everybody 60%
+* Python for Everybody 70%
 * Scientific Computing with Python Projects
     * Arithmetic Formatter
     * Time Calculator
